@@ -1,2 +1,2 @@
-# mirth
-system:Rust Operating System
+# eagle
+system:Zig Operating System

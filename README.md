@@ -1,2 +1,2 @@
 # eagle
-system:Zig Operating System
+system:Rust Operating System
